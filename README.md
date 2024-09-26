@@ -1,6 +1,6 @@
 
 
-# Nextly - Landing Page  with Next.js & Tailwind CSS
+# Landing Page  with Next.js, strapi_v5 & TailwindCSS.
 
 
 
